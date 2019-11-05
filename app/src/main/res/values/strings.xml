@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Awesome App</string>
+    <string name="brand">No Brand Selected</string>
+    <string name="find_beer">Find Beer</string>
+    <string name="send_message">Send Message</string>
+    <string-array name="beer_colors">
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+    </string-array>
+</resources>
